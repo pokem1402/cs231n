@@ -38,10 +38,9 @@
  1. * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke: “Going Deeper with Convolutions”, 2014; [http://arxiv.org/abs/1409.4842 arXiv:1409.4842].
  2. * Kaiming He, Xiangyu Zhang, Shaoqing Ren: “Deep Residual Learning for Image Recognition”, 2015; [http://arxiv.org/abs/1512.03385 arXiv:1512.03385].
  3. * Min Lin, Qiang Chen: “Network In Network”, 2013; [http://arxiv.org/abs/1312.4400 arXiv:1312.4400].
- First Header  | Second Header 
- ------------- | ------------- 
- Content Cell  | Content Cell  
- Content Cell  | Content Cell  
+| Attempt | #1 | #2 |
+| :---: | :---: | :---: |
+| Seconds | 301 | 283 |
  summary
 | name | ver| Training Time | total_para | fwd_complex | train_acc | vald_acc | test_acc|
 |---|---|---|---|---|---|---|---|
