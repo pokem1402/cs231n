@@ -13,31 +13,33 @@
  
   [Networks Summary](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Test%20Network%20Idea%20Performance.html) 
   
-  [Inception ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v1.html)
+  [Inception ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v1.html) Basic module
   ![Alt text](image/inception_v1.png)
     
-  [Inception ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v2.html)
+  [Inception ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v2.html) 5x5 convolution -> 3x3 convolution x2
   ![Alt text](image/inception_2.png)
     
-  [Inception ver3](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v3.html)
+  [Inception ver3](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v3.html) pre-processing via 1x1 convolution before convolution operation via other filters
   ![Alt text](image/inception_3.png)
     
   [Inception ver3_batch](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v3_batch.html)
+  Test spatial batch normalization instead of max_pool
   ![Alt text](image/inception_3_batch.png)
     
   [Inception ver4](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v4.html)
+  output fully connected layer -> 1x1 convolution (from Network In Network)
   ![Alt text](image/inception_4.png)
     
-  [Network In Network ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/NIN%20v1.html)
+  [Network In Network ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/NIN%20v1.html) basis model
   ![Alt text](image/nin_1.png)
     
-  [Network In Network ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/NIN%20v2.html)
+  [Network In Network ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/NIN%20v2.html) add Relu
   ![Alt text](image/nin_2.png)
   
-  [Residual ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/residual%20v1.html)
+  [Residual ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/residual%20v1.html) simple model
   ![Alt text](image/reg_1.png)
   
-  [Residual ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/residual%20v2.html)
+  [Residual ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/residual%20v2.html) output fully connected layer- > 1x1 convolution (from Network In Network)
   ![Alt text](image/reg_2.png)
   
 * terminal 창에서 Dataset 내 폴더의 cifar_10_get_datasets.sh를 실행하면 dataset을 받을 수 있습니다.
