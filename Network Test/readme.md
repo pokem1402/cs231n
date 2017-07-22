@@ -20,6 +20,7 @@
   [Inception ver3](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v3.html)
   
   [Inception ver3_batch](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v3_batch.html)
+  
   [Inception ver4](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v4.html)
   
   [Network In Network ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/NIN%20v1.html)
