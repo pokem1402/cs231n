@@ -41,7 +41,7 @@
 
  summary
  
-| name | ver| Training Time | total_para | fwd_complex | train_acc | vald_acc | test_acc|
+| name | ver| Training Time | total_parameter | fwd_complex | train_acc | vald_acc | test_acc|
 |---|:---:|---:|---:|---:|---:|---:|---:|
 | Inception | ver_1 |   12646.61514s|  17,206,986|      111M |  0.596 |    0.586 |  0.565 |
 |           | ver_2 |   7791.720436s|  17,017,386|       75M |  0.628 |    0.579 |  0.587 |
