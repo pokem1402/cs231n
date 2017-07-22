@@ -13,7 +13,7 @@
  
   [Networks Summary](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Test%20Network%20Idea%20Performance.html) 
   
-  ![Alt text](/image/inception_1.png)
+  ![Alt text](/image/inception_v1.png)
   [Inception ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v1.html)
   
   [Inception ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v2.html)
