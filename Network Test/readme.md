@@ -11,17 +11,24 @@
 
 * CIFAR10_test.ipynb 파일을 통하여 test를 진행하였습니다. 
  
-  [Networks Summary](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/Test%20Network%20Idea%20Performance.html) 
+  [Networks Summary](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Test%20Network%20Idea%20Performance.html) 
   
-  [Inception ver1](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/Inception%20model%20v1.html)
-  [Inception ver2](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/Inception%20model%20v2.html)
-  [Inception ver3](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/Inception%20model%20v3.html)
-  [Inception ver3_batch](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/Inception%20model%20v3_batch.html)
-  [Inception ver4](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/Inception%20model%20v4.html)
-  [Network In Network ver1](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/NIN%20v1.html)
-  [Network In Network ver2](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/NIN%20v2.html)
-  [Residual ver1](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/residual%20v1.html)
-  [Residual ver2](https://github.com/pokem1402/cs231n/blob/master/Network%20Test/html/residual%20v2.html)
+  [Inception ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v1.html)
+  
+  [Inception ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v2.html)
+  
+  [Inception ver3](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v3.html)
+  
+  [Inception ver3_batch](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v3_batch.html)
+  [Inception ver4](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/Inception%20model%20v4.html)
+  
+  [Network In Network ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/NIN%20v1.html)
+  
+  [Network In Network ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/NIN%20v2.html)
+  
+  [Residual ver1](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/residual%20v1.html)
+  
+  [Residual ver2](https://cdn.rawgit.com/pokem1402/cs231n/63017e59/Network%20Test/html/residual%20v2.html)
   
 * terminal 창에서 Dataset 내 폴더의 cifar_10_get_datasets.sh를 실행하면 dataset을 받을 수 있습니다.
 
