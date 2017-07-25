@@ -1,0 +1,12 @@
+
+#
+assignmnet3/cs231n/datasets/coco_captioning/ # MS COCO
+assignment2/cs231n/datasets/cifar-10-batches-py/ #CIFAR-10
+Network Test/dataset/cifar-10-batches-py/ #CIFAR-10
+
+cifar-10-batches-py/
+coco_captioning/
+
+# compiled file
+__pycache__/
+
